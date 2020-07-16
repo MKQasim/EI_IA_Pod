@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EI_IA_Pod_Example' do
+  pod 'EI_IA_Pod', :path => '../'
+
+  target 'EI_IA_Pod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

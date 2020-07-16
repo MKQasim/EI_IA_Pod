@@ -1,0 +1,22 @@
+{
+  "name": "EI_IA_Pod",
+  "version": "0.1.0",
+  "summary": "EI_IA_Pod Module for for All of Testing Pods",
+  "description": "EI_IA_Pod for for All of Testing Pods before creating orignal IA Pods",
+  "homepage": "https://bitbucket.org/iauae/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MKQasim": "m.qasim@ia.gov.ae"
+  },
+  "source": {
+    "git": "https://github.com/MKQasim/EI_IA_Pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.3"
+  },
+  "source_files": "EI_IA_Pod/Classes/**/*"
+}
